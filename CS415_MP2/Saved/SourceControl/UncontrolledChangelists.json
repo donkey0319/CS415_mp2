@@ -17,7 +17,9 @@
 				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Projectile.uasset",
 				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Explosion.uasset",
 				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Maps/Untitled.umap",
-				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset"
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Victor/Documents/GitHub/CS415_mp2/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Explosion.uasset",
+				"C:/Users/Victor/Documents/GitHub/CS415_mp2/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_EnemyParent.uasset"
 			]
 		}
 	]
