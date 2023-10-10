@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_EnemyParent.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/WBP_HUD.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Enemy_Pursuer.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Enemy_Special.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Enemy_Mortar.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Explosion.uasset",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Users/Victor/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset"
+			]
+		}
+	]
+}
